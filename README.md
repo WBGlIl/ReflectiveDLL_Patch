@@ -9,6 +9,6 @@ python3 ReflectiveDLL_Patch.py dll_path x86|x64
 ## 原理
 请参考cs和msf分阶段payload以及反射dll源码
 
-##详细信息
-有时间再写
+## 详细信息
+等过段时间再写
 
