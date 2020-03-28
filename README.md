@@ -10,5 +10,5 @@ python3 ReflectiveDLL_Patch.py dll_path x86|x64
 请参考cs和msf分阶段payload以及反射dll源码
 
 ## 详细信息
-等过段时间再写
+https://wbglil.github.io/2020/03/27/%E5%85%B3%E4%BA%8E%E5%8F%8D%E5%B0%84dll%E4%BF%AE%E8%A1%A5/
 
